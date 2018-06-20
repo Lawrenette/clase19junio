@@ -37,7 +37,7 @@
 - Mostrar logo
 - Que sea responsivo
 - El contenido sera por parte del negocio junto a los encargados de sus redes sociales.
-- utilización de grillas Bootstrap
+- Utilización de grillas Bootstrap
 
 ###Requerimientos visuales:
 
