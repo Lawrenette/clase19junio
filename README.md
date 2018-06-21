@@ -21,7 +21,7 @@
 		- Entragadas por el cliente (vea carpeta "images")
 
 
-###La Página web está dividida en 8 secciones:
+### La Página web está dividida en 8 secciones:
 
 1. Navbar
 2. Cabecera
@@ -32,14 +32,14 @@
 7. Invitación a comprar sus tomates.
 8. Footer
 
-###Requerimientos específicos:
+### Requerimientos específicos:
 
 - Mostrar logo
 - Que sea responsivo
 - El contenido sera por parte del negocio junto a los encargados de sus redes sociales.
 - Utilización de grillas Bootstrap
 
-###Requerimientos visuales:
+### Requerimientos visuales:
 
 - Layout : Se hará con Bootstrap
 - Fuentes: Vienen en el repositorio
@@ -47,7 +47,7 @@
 - Parrafos: OpenSans-Regular
 - Banner y footer: Raleway-Extralight
 
-###Descripción de las secciones, layout, estructura HTML y clases CSS que decidí usar.
+### Descripción de las secciones, layout, estructura HTML y clases CSS que decidí usar.
 
 - Navbar
 	- navbar
@@ -79,7 +79,7 @@
 	- footer_social
 	- footer_list
 
-###Estructura de directorio
+### Estructura de directorio
 
 - **PROYECTO TIATOMATE**
 	- README.md
@@ -90,7 +90,7 @@
 		- images/
 		- js/
                  
-###Foto con los sketch de la versión escritorio y móvil.
+### Foto con los sketch de la versión escritorio y móvil.
 
 **Versión escritorio**
 ![Pagina web](assets/images/imagen01.jpeg)
