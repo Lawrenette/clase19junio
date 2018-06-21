@@ -1,9 +1,9 @@
-#TIATOMATE
+# TIATOMATE
 
 ----------
 
 
-###Listado con los requerimientos visuales y técnicos de la web
+### Listado con los requerimientos visuales y técnicos de la web
 - Ésta página web está enfocada a la venta de tomates
 - Estructura visual:
 	- Fuentes
